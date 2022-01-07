@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/good-life/static/css/main.494f4409.css",
-    "main.js": "/good-life/static/js/main.423e5074.js",
+    "main.js": "/good-life/static/js/main.011a5970.js",
     "index.html": "/good-life/index.html",
     "main.494f4409.css.map": "/good-life/static/css/main.494f4409.css.map",
-    "main.423e5074.js.map": "/good-life/static/js/main.423e5074.js.map"
+    "main.011a5970.js.map": "/good-life/static/js/main.011a5970.js.map"
   },
   "entrypoints": [
     "static/css/main.494f4409.css",
-    "static/js/main.423e5074.js"
+    "static/js/main.011a5970.js"
   ]
 }
